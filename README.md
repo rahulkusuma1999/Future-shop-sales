@@ -3,6 +3,11 @@
 
 
 
+data :: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+
+
+
+
 
 This challenge serves as final project for the "How to win a data science competition" Coursera course.
 
